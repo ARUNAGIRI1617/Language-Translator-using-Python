@@ -9,8 +9,8 @@ on:
 
 
 
-permissions:
-  contents: read
+
+
 
 jobs:
   build:
