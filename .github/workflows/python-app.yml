@@ -29,8 +29,12 @@ jobs:
         pip install google_trans_new
         pip install streamlit
         
-    - name: translator
-
-
+    - name: translator 
       run: |
         streamlit run main.py
+
+        
+
+
+      
+
