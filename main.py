@@ -11,4 +11,4 @@ text = st.text_input("Enter a text")
 
 translate = translator.translate(text, lang_tgt='de') #You can give any country code eg:"fr","en","th",etc...
 
-st.write(translate) #Visit your localhost to see the translator.
+st.write(translate) #streamlit will provide url to visit the website.
